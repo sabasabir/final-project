@@ -1,5 +1,7 @@
 # Final Project
 
+Fixed typo in final project README.
+
 This repository contains my submission for the final project. 
 
 ## Files included
